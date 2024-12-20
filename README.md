@@ -28,7 +28,7 @@
 ![React](https://img.icons8.com/color/48/react-native.png)  ![Next.js](https://img.icons8.com/?size=48&id=MWiBjkuHeMVq&format=png&color=000000)
 
 ### 🔧 **Backend Development & Tools**
-![Node.js](https://img.icons8.com/color/48/nodejs.png) ![express](https://img.icons8.com/?size=48&id=SDVmtZ6VBGXt&format=png&color=000000)
+![Node.js](https://img.icons8.com/color/48/nodejs.png) ![express](https://img.icons8.com/?size=48&id=WNoJgbzDr3i2&format=png&color=000000)
 ![MongoDb](https://img.icons8.com/?size=48&id=8rKdRqZFLurS&format=png&color=000000) ![Firebase](https://img.icons8.com/?size=48&id=62452&format=png&color=000000)
 
 

@@ -44,7 +44,7 @@
 ## 🌐 **Connect with Me**
 <div >
   <a href="https://mdatikur.netlify.app/">
-    🌐Portfolio 
+    <img src="https://img.icons8.com/?size=48&id=QiwSMfboPt2R&format=png&color=000000" />
   </a>
   <a href="https://www.linkedin.com/in/mdatikur-contact/">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" />

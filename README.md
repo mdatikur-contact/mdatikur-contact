@@ -25,7 +25,7 @@
 ### 🌐 **Frontend Development**
 ![HTML5](https://img.icons8.com/color/48/html-5.png)  ![CSS3](https://img.icons8.com/color/48/css3.png)  
 ![JavaScript](https://img.icons8.com/color/48/javascript.png)  ![React](https://img.icons8.com/color/48/react-native.png)  
-![Tailwind CSS](https://img.icons8.com/?size=100&id=x7XMNGh2vdqA&format=png&color=000000)
+![Tailwind CSS](https://img.icons8.com/?size=100&id=x7XMNGh2vdqA&format=png&color=000000=50x50)
 
 ### 🔧 **Backend Development & Tools**
 ![Node.js](https://img.icons8.com/color/48/nodejs.png) ![Java](https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png)  

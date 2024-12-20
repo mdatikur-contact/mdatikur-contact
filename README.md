@@ -61,11 +61,12 @@
 ## 📈 **GitHub Stats**  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mdatikur-contact&show_icons=true&theme=radical" alt="Md Atikur Rahman's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdatikur-contact&theme=radical" alt="GitHub Streak Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=mdatikur-contact&theme=radical" alt="GitHub Streak Stats" width="48%" />
 </div>  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdatikur-contact&layout=compact&theme=radical" alt="Top Languages" width="50%" />
 </div>
+
 
 ---
 

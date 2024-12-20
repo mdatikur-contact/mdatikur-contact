@@ -19,19 +19,17 @@
 ---
 
 ## 💻 **Tech Stack**
-
-### 🌐 **Frontend Development**  
+### 🌐 **Frontend Development**
 ![HTML5](https://img.icons8.com/color/48/html-5.png)  
 ![CSS3](https://img.icons8.com/color/48/css3.png)  
 ![JavaScript](https://img.icons8.com/color/48/javascript.png)  
 ![React](https://img.icons8.com/color/48/react-native.png)  
-![Tailwind CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg)  
+![Tailwind CSS](https://camo.githubusercontent.com/4f63c9db1b014dab6742da0b2c3e3ed64098db5e/68747470733a2f2f696d672e696f2f69636f6e732f636f6c6f722f3432382f7461696c77696e642d6373732e706e67)
 
-### 🔧 **Backend Development & Tools**  
-![Node.js](https://img.icons8.com/color/48/nodejs.png)  
-![Java](https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png)  
+### 🔧 **Backend Development & Tools**
+![Node.js](https://img.icons8.com/color/48/nodejs.png) ![Java](https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png)  
 ![C](https://img.icons8.com/color/48/c-programming.png)  
-![C++](https://img.icons8.com/color/48/c-plus-plus-logo.png)  
+![C++](https://img.icons8.com/color/48/c-plus-plus-logo.png)
 
 ---
 
@@ -43,7 +41,7 @@
 
 ---
 
-## 🌐 **Connect with Me**  
+## 🌐 **Connect with Me**
 <div align="center">
   <a href="https://mdatikur.netlify.app/">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-web-design-and-development-seo-coding-color-tal-revivo.png" alt="Portfolio" />
@@ -58,7 +56,7 @@
 
 ---
 
-## 📈 **GitHub Stats**  
+## 📈 **GitHub Stats**
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mdatikur-contact&show_icons=true&theme=radical" alt="Md Atikur Rahman's GitHub Stats" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=mdatikur-contact&theme=radical" alt="GitHub Streak Stats" width="48%" />
@@ -66,8 +64,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdatikur-contact&layout=compact&theme=radical" alt="Top Languages" width="50%" />
 </div>
-
-
 
 ---
 

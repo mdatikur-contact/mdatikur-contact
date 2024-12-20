@@ -24,7 +24,7 @@
 ![CSS3](https://img.icons8.com/color/48/css3.png)  
 ![JavaScript](https://img.icons8.com/color/48/javascript.png)  
 ![React](https://img.icons8.com/color/48/react-native.png)  
-![Tailwind CSS](https://camo.githubusercontent.com/4f63c9db1b014dab6742da0b2c3e3ed64098db5e/68747470733a2f2f696d672e696f2f69636f6e732f636f6c6f722f3432382f7461696c77696e642d6373732e706e67)
+![Tailwind CSS](https://img.icons8.com/?size=100&id=x7XMNGh2vdqA&format=png&color=000000)
 
 ### 🔧 **Backend Development & Tools**
 ![Node.js](https://img.icons8.com/color/48/nodejs.png) ![Java](https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png)  

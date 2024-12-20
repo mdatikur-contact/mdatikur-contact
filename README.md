@@ -42,7 +42,7 @@
 ---
 
 ## 🌐 **Connect with Me**
-<div align="center">
+<div >
   <a href="https://mdatikur.netlify.app/">
     🌐Portfolio 
   </a>

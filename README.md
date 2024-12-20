@@ -25,7 +25,7 @@
 ![CSS3](https://img.icons8.com/color/48/css3.png)  
 ![JavaScript](https://img.icons8.com/color/48/javascript.png)  
 ![React](https://img.icons8.com/color/48/react-native.png)  
-![Tailwind CSS](https://img.icons8.com/color/48/tailwind-css.png)  
+![Tailwind CSS]([https://img.icons8.com/color/48/tailwind-css.png](https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg))  
 
 ### 🔧 **Backend Development & Tools**  
 ![Node.js](https://img.icons8.com/color/48/nodejs.png)  

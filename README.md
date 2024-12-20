@@ -1,64 +1,79 @@
-# 🌟 Welcome to My GitHub Profile! 🌟  
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/your-banner-link/banner.png" alt="GitHub Profile Banner" width="100%" />
+</div>  
+
+# 🌟 **Welcome to My GitHub Profile!** 🌟  
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=mdatikur-contact&color=blue&style=flat-square)  
 ![Followers](https://img.shields.io/github/followers/mdatikur-contact?style=social)  
-![Stars](https://img.shields.io/github/stars/mdatikur-contact?style=social)
+![Stars](https://img.shields.io/github/stars/mdatikur-contact?style=social)  
 
 ---
 
-## 👋 **Hi, I'm Md Atikur Rahman!**  
-🚀 A passionate **Web Developer**, **CSE Student**, and aspiring **Software Engineer** with a drive to create innovative and impactful solutions.
-
----
-
-### 🏆 **Achievements**  
-- 🏅 **Academic Excellence Award 2023**  
-  🎓 CGPA: 4.0/4.0 | Pundra University of Science and Technology  
-- 🥈 **1st Runner-Up**, PUPC Programming Contest 2023  
-  💡 Team: Secret_Attacker  
-
----
-
-### 💻 **Tech Stack**  
-**Languages**:  
-![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black)  
-![C](https://img.shields.io/badge/-C-gray?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=white)  
-
-**Frameworks & Tools**:  
-![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white)  
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=nodedotjs&logoColor=white)
-![daisyUI](https://img.shields.io/badge/-daisyUI-purple?style=flat-square)  
-
----
-
-### 📂 **Highlighted Projects**  
-- **[Class Pad](https://classpad.netlify.app/):** Online class management system.  
-- **[Pub Campus Aid](https://pub-campus-aide.netlify.app/):** Hackathon-winning university aid project.  
-- **[Penguin Fashion](https://mdatikur-contact.github.io/penguin-fashion/):** Stylish e-commerce store.  
-- **[Food Zone Restaurantt](https://mdatikur-contact.github.io/Restaurant/):** Elegant tea shop website.  
-
----
-
-### 🌐 **Connect with Me**  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=appveyor&logoColor=white)](https://mdatikur.netlify.app/)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdatikur-contact/)  
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:mdatikur.contact@gmail.com)
-
----
-
-### 📈 **GitHub Stats**  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdatikur-contact&show_icons=true&theme=radical" alt="Md Atikur Rahman's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdatikur-contact&theme=radical" alt="GitHub Streak Stats" width="48%" />
-</div>  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdatikur-contact&layout=compact&theme=radical" alt="Top Languages" width="50%" />
+  <h2>👋 **Hi, I'm Md Atikur Rahman!**</h2>
+  <p>
+    🚀 A passionate <b>Web Developer</b>, <b>CSE Student</b>, and aspiring <b>Software Engineer</b>  
+    with a drive to create innovative and impactful solutions.
+  </p>
 </div>
 
 ---
 
-### 🚀 **Let’s Build Something Amazing Together!**
+## 🏆 **Achievements**  
+✨ **Academic Excellence Award 2023**  
+&nbsp;&nbsp;&nbsp;&nbsp;🎓 CGPA: 4.0/4.0 | Pundra University of Science and Technology  
+
+🥈 **1st Runner-Up**, PUPC Programming Contest 2023  
+&nbsp;&nbsp;&nbsp;&nbsp;💡 Team: Secret_Attacker  
+
+---
+
+## 💻 **Tech Stack**  
+
+### 🌐 **Frontend Development**  
+![HTML5](https://img.icons8.com/color/48/html-5.png) ![CSS3](https://img.icons8.com/color/48/css3.png)  
+![JavaScript](https://img.icons8.com/color/48/javascript.png) ![React](https://img.icons8.com/color/48/react-native.png)  
+![Tailwind CSS](https://img.icons8.com/color/48/tailwind-css.png)  
+
+### 🔧 **Backend Development & Tools**  
+![Node.js](https://img.icons8.com/color/48/nodejs.png) ![Java](https://img.icons8.com/color/48/java.png)  
+![C](https://img.icons8.com/color/48/c-programming.png) ![C++](https://img.icons8.com/color/48/c-plus-plus-logo.png)  
+
+---
+
+## 📂 **Highlighted Projects**  
+✨ **[Class Pad](https://classpad.netlify.app/):** Online class management system.  
+✨ **[Pub Campus Aid](https://pub-campus-aide.netlify.app/):** Hackathon-winning university aid project.  
+✨ **[Penguin Fashion](https://mdatikur-contact.github.io/penguin-fashion/):** Stylish e-commerce store.  
+✨ **[Food Zone Restaurant](https://mdatikur-contact.github.io/Restaurant/):** Restaurant website for online ordering.  
+
+---
+
+## 🌐 **Connect with Me**  
+<div align="center">
+  <a href="https://mdatikur.netlify.app/">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-web-design-and-development-seo-coding-color-tal-revivo.png" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/mdatikur-contact/">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mdatikur.contact@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" />
+  </a>
+</div>
+
+---
+
+## 📈 **GitHub Stats**  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdatikur-contact&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdatikur-contact&theme=radical" alt="Streak Stats" width="48%" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdatikur-contact&layout=compact&theme=radical" alt="Top Languages" width="48%" />  
+</div>
+
+---
+
+<div align="center">
+  <h3>✨ Let’s Build Something Amazing Together! ✨</h3>
+</div>

@@ -1,7 +1,7 @@
 # 🌟 Welcome to My GitHub Profile! 🌟  
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=atikur45bd&color=blue&style=flat-square)  
-![Followers](https://img.shields.io/github/followers/atikur45bd?style=social)  
-![Stars](https://img.shields.io/github/stars/atikur45bd?style=social)
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=mdatikur-contact&color=blue&style=flat-square)  
+![Followers](https://img.shields.io/github/followers/mdatikur-contact?style=social)  
+![Stars](https://img.shields.io/github/stars/mdatikur-contact?style=social)
 
 ---
 
@@ -37,26 +37,26 @@
 
 ### 📂 **Highlighted Projects**  
 - **[Class Pad](https://classpad.netlify.app/):** Online class management system.  
-- **[Pub Campus Aid](https://github.com/atikur45bd/Pub-Campus-Aid):** Hackathon-winning university aid project.  
-- **[Penguin Fashion](https://cseatikur.github.io/penguin-fashion/):** Stylish e-commerce store.  
-- **[Tea House](https://cseatikur.github.io/Tea-House/):** Elegant tea shop website.  
+- **[Pub Campus Aid](https://pub-campus-aide.netlify.app/):** Hackathon-winning university aid project.  
+- **[Penguin Fashion](https://mdatikur-contact.github.io/penguin-fashion/):** Stylish e-commerce store.  
+- **[Food Zone Restaurantt](https://mdatikur-contact.github.io/Restaurant/):** Elegant tea shop website.  
 
 ---
 
 ### 🌐 **Connect with Me**  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=appveyor&logoColor=white)](https://mdatikur.netlify.app/)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdatikurrahman)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdatikur-contact/)  
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:mdatikur.contact@gmail.com)
 
 ---
 
 ### 📈 **GitHub Stats**  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atikur45bd&show_icons=true&theme=radical" alt="Md Atikur Rahman's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atikur45bd&theme=radical" alt="GitHub Streak Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdatikur-contact&show_icons=true&theme=radical" alt="Md Atikur Rahman's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdatikur-contact&theme=radical" alt="GitHub Streak Stats" width="48%" />
 </div>  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atikur45bd&layout=compact&theme=radical" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdatikur-contact&layout=compact&theme=radical" alt="Top Languages" width="50%" />
 </div>
 
 ---

@@ -28,8 +28,8 @@
 
 ### 🔧 **Backend Development & Tools**
 ![Node.js](https://img.icons8.com/color/48/nodejs.png) ![Java](https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png)  
-![C](https://img.icons8.com/color/48/c-programming.png)  
-![C++](https://img.icons8.com/color/48/c-plus-plus-logo.png)
+![C](https://img.icons8.com/color/48/c-programming.png)  ![C++](https://img.icons8.com/color/48/c-plus-plus-logo.png)
+
 
 ---
 
@@ -44,7 +44,7 @@
 ## 🌐 **Connect with Me**
 <div align="center">
   <a href="https://mdatikur.netlify.app/">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-web-design-and-development-seo-coding-color-tal-revivo.png" alt="Portfolio" />
+    🌐Portfolio 
   </a>
   <a href="https://www.linkedin.com/in/mdatikur-contact/">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" />

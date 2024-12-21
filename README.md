@@ -27,8 +27,8 @@ A passionate **Web Developer**, **CSE Student**, and aspiring **Software Enginee
 ## 💻 **Tech Stack**
 ### 🌐 **Frontend Development**
 ![HTML5](https://img.icons8.com/color/48/html-5.png)  ![CSS3](https://img.icons8.com/color/48/css3.png)  
-![Tailwind CSS](https://img.icons8.com/?size=48&id=x7XMNGh2vdqA&format=png&color=000000) ![JavaScript](https://img.icons8.com/color/48/javascript.png) 
-![typescript](https://img.icons8.com/?size=48&id=wpZmKzk11AzJ&format=png&color=000000) ![React](https://img.icons8.com/color/48/react-native.png)  
+![Tailwind CSS](https://img.icons8.com/?size=48&id=x7XMNGh2vdqA&format=png&color=000000)  ![JavaScript](https://img.icons8.com/color/48/javascript.png) 
+![typescript](https://img.icons8.com/?size=48&id=wpZmKzk11AzJ&format=png&color=000000)  ![React](https://img.icons8.com/color/48/react-native.png)  
 ![Next.js](https://img.icons8.com/?size=48&id=MWiBjkuHeMVq&format=png&color=000000)
 
 ### 🔧 **Backend Development & Tools**
@@ -36,9 +36,7 @@ A passionate **Web Developer**, **CSE Student**, and aspiring **Software Enginee
 ![MongoDb](https://img.icons8.com/?size=48&id=8rKdRqZFLurS&format=png&color=000000) ![Firebase](https://img.icons8.com/?size=48&id=62452&format=png&color=000000)
 
 ### 🔧 **Familiar With**  
-![C](https://img.icons8.com/color/48/c-programming.png)  
-![C++](https://img.icons8.com/color/48/c-plus-plus-logo.png)  
-![Java](https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png)  
+![C](https://img.icons8.com/color/48/c-programming.png)  ![C++](https://img.icons8.com/color/48/c-plus-plus-logo.png)  ![Java](https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png)  
 
 
 

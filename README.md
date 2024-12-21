@@ -12,6 +12,9 @@
 - **BSc in Computer Science and Engineering**  
   📍 Pundra University of Science and Technology, Bogura  
   🎓 CGPA: 4.0/4.0 | First Semester
+- **Diploma in Engineering in Computer Technology.**  
+  📍 Vocational Teachers' Training Institute (VTTI), Bogura
+  🎓 CGPA: 3.70/4.0 
 
 ### 🏆 **Achievements**  
 - 🏅 **Academic Excellence Award 2023**  
@@ -24,12 +27,19 @@
 ## 💻 **Tech Stack**
 ### 🌐 **Frontend Development**
 ![HTML5](https://img.icons8.com/color/48/html-5.png)  ![CSS3](https://img.icons8.com/color/48/css3.png)  
-![Tailwind CSS](https://img.icons8.com/?size=48&id=x7XMNGh2vdqA&format=png&color=000000) ![JavaScript](https://img.icons8.com/color/48/javascript.png)  
-![React](https://img.icons8.com/color/48/react-native.png)  ![Next.js](https://img.icons8.com/?size=48&id=MWiBjkuHeMVq&format=png&color=000000)
+![Tailwind CSS](https://img.icons8.com/?size=48&id=x7XMNGh2vdqA&format=png&color=000000) ![JavaScript](https://img.icons8.com/color/48/javascript.png) 
+![typescript](https://img.icons8.com/?size=48&id=wpZmKzk11AzJ&format=png&color=000000) ![React](https://img.icons8.com/color/48/react-native.png)  
+![Next.js](https://img.icons8.com/?size=48&id=MWiBjkuHeMVq&format=png&color=000000)
 
 ### 🔧 **Backend Development & Tools**
 ![Node.js](https://img.icons8.com/color/48/nodejs.png) ![express](https://img.icons8.com/?size=48&id=WNoJgbzDr3i2&format=png&color=000000)
 ![MongoDb](https://img.icons8.com/?size=48&id=8rKdRqZFLurS&format=png&color=000000) ![Firebase](https://img.icons8.com/?size=48&id=62452&format=png&color=000000)
+
+### 🔧 **Familiar With**  
+![C](https://img.icons8.com/color/48/c-programming.png)  
+![C++](https://img.icons8.com/color/48/c-plus-plus-logo.png)  
+![Java](https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png)  
+
 
 
 ---

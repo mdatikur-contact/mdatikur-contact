@@ -13,7 +13,7 @@
   📍 Pundra University of Science and Technology, Bogura  
   🎓 CGPA: 4.0/4.0 | First Semester
 - **Diploma in Engineering in Computer Technology.**  
-  📍 Vocational Teachers' Training Institute (VTTI), Bogura.
+  📍 Vocational Teachers' Training Institute (VTTI), Bogura.</br>
   🎓 CGPA: 3.70/4.0 
 
 ### 🏆 **Achievements**  

@@ -82,12 +82,12 @@ A passionate **Web Developer**, **CSE Student**, and aspiring **Software Enginee
 
 <div >
   <div style="background-color: #1E293B; border-radius: 8px; padding: 16px; margin: 8px;">
-    <h3 style="color: #F43F5E;">Executive Member (2024-2025)</h3>
+    <h4 style="color: #F43F5E;">Executive Member (2024-2025)</h4>
     <p style="color: #CBD5E1;">BASIS Student Forum, PUB Chapter</p>
     <p style="color: #9CA3AF;">Collaborated with students and faculty to promote IT development and foster career growth in the IT sector.</p>
   </div>
   <div style="background-color: #1E293B; border-radius: 8px; padding: 16px; margin: 8px;">
-    <h3 style="color: #F43F5E;">Executive Member (2023-2024)</h3>
+    <h4 style="color: #F43F5E;">Executive Member (2023-2024)</h4>
     <p style="color: #CBD5E1;">Pundra University Programming Club (PUPC)</p>
     <p style="color: #9CA3AF;">Played a key role in organizing events like the PUPC Programming Contest 2023, fostering a culture of competitive programming and innovation.</p>
   </div>

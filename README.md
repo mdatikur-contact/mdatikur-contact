@@ -1,12 +1,12 @@
-# 🌟 Welcome to My GitHub Profile! 🌟
+# Welcome to My GitHub Profile! 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=mdatikur-contact&color=blue&style=flat-square)  
 ![Followers](https://img.shields.io/github/followers/mdatikur-contact?style=social)  
 ![Stars](https://img.shields.io/github/stars/mdatikur-contact?style=social)
 
 ---
 
-## 👋 **Hi, I'm Md Atikur Rahman!**  
-🚀 A passionate **Web Developer**, **CSE Student**, and aspiring **Software Engineer** with a drive to create innovative and impactful solutions.
+##  **Hi, I'm Md Atikur Rahman!**  
+A passionate **Web Developer**, **CSE Student**, and aspiring **Software Engineer** with a drive to create innovative and impactful solutions.
 
 🎓 Education:
 - **BSc in Computer Science and Engineering**  
@@ -86,4 +86,4 @@
 
 ---
 
-### 🚀 **Let’s Build Something Amazing Together!**
+

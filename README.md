@@ -80,7 +80,7 @@ A passionate **Web Developer**, **CSE Student**, and aspiring **Software Enginee
 
 ### 🎓 **Organizational Roles**
 
-<div align="center">
+<div >
   <div style="background-color: #1E293B; border-radius: 8px; padding: 16px; margin: 8px;">
     <h3 style="color: #F43F5E;">Executive Member (2024-2025)</h3>
     <p style="color: #CBD5E1;">BASIS Student Forum, PUB Chapter</p>

@@ -9,9 +9,9 @@
 A passionate **Web Developer**, **CSE Student**, and aspiring **Software Engineer** with a drive to create innovative and impactful solutions.
 
 🎓 Education:
-- **BSc in Computer Science and Engineering**  
-  📍 Pundra University of Science and Technology, Bogura  
-  🎓 CGPA: 4.0/4.0 | First Semester
+- **BSc in Computer Science and Engineering(Ongoing)**  
+  📍 Pundra University of Science and Technology, Bogura
+  
 - **Diploma in Engineering in Computer Technology.**  
   📍 Vocational Teachers' Training Institute (VTTI), Bogura.</br>
   🎓 CGPA: 3.70/4.0 

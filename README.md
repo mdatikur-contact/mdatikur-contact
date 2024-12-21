@@ -82,14 +82,14 @@ A passionate **Web Developer**, **CSE Student**, and aspiring **Software Enginee
 
 <div >
   <div>
-    <h4 ">Executive Member (2024-2025)</h4>
-    <p>BASIS Student Forum, PUB Chapter</p>
-    <p >Collaborated with students and faculty to promote IT development and foster career growth in the IT sector.</p>
+    <h4 >Executive Member (2024-2025)</h4>
+    BASIS Student Forum, PUB Chapter
+    Collaborated with students and faculty to promote IT development and foster career growth in the IT sector.
   </div>
   <div>
     <h4 >Executive Member (2023-2024)</h4>
-    <p >Pundra University Programming Club (PUPC)</p>
-    <p >Played a key role in organizing events like the PUPC Programming Contest 2023, fostering a culture of competitive programming and innovation.</p>
+    Pundra University Programming Club (PUPC)
+    Played a key role in organizing events like the PUPC Programming Contest 2023, fostering a competitive programming and innovation culture.
   </div>
 </div>
 

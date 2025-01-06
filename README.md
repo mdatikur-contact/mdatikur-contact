@@ -43,6 +43,7 @@ A passionate **Web Developer**, **CSE Student**, and aspiring **Software Enginee
 ---
 
 ## 📂 **Highlighted Projects**
+- **[Cover Page Generator](https://pub-cover-page.netlify.app/):** Cover Page Generator. 
 - **[Class Pad](https://classpad.netlify.app/):** Online class management system.  
 - **[Pub Campus Aid](https://pub-campus-aide.netlify.app/):** Hackathon-winning university aid project.  
 - **[Penguin Fashion](https://mdatikur-contact.github.io/penguin-fashion/):** Stylish e-commerce store.  

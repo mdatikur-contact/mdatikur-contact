@@ -26,10 +26,7 @@ A passionate **Web Developer**, **CSE Student**, and aspiring **Software Enginee
 
 ## 💻 **Tech Stack**
 ### 🌐 **Frontend Development**
-![HTML5](https://img.icons8.com/color/48/html-5.png)  ![CSS3](https://img.icons8.com/color/48/css3.png)  ![Tailwind CSS](https://img.icons8.com/?size=48&id=x7XMNGh2vdqA&format=png&color=000000)  
-
-![JavaScript](https://img.icons8.com/color/48/javascript.png)  ![typescript](https://img.icons8.com/?size=48&id=wpZmKzk11AzJ&format=png&color=000000)  
-![React](https://img.icons8.com/color/48/react-native.png)  ![Next.js](https://img.icons8.com/?size=48&id=MWiBjkuHeMVq&format=png&color=000000)
+![HTML5](https://img.icons8.com/color/48/html-5.png)  ![CSS3](https://img.icons8.com/color/48/css3.png)  ![Tailwind CSS](https://img.icons8.com/?size=48&id=x7XMNGh2vdqA&format=png&color=000000) ![JavaScript](https://img.icons8.com/color/48/javascript.png)  ![typescript](https://img.icons8.com/?size=48&id=wpZmKzk11AzJ&format=png&color=000000) ![React](https://img.icons8.com/color/48/react-native.png) ![Next.js](https://img.icons8.com/?size=48&id=MWiBjkuHeMVq&format=png&color=000000)
 
 ### 🔧 **Backend Development & Tools**
 ![Node.js](https://img.icons8.com/color/48/nodejs.png) ![express](https://img.icons8.com/?size=48&id=WNoJgbzDr3i2&format=png&color=000000)
